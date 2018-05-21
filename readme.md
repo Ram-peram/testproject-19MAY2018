@@ -1,5 +1,7 @@
 
-Demonstrating git abilities
+
+Demonstrating git capabilities
+
 masterbarch master
 
 hello
